@@ -10,11 +10,6 @@ AxiomOS is a freestanding x86-64 hobby operating system...
 - Graphics
 - Desktop GUI
 
-is your repository's front page.
-When you later go to the normal GitHub page for AxiomOS, GitHub will automatically render this underneath the file list.
-So for now, stay exactly where you are.
-2. Replace your current README with this
-You can delete what's currently there and paste this whole thing:
 # AxiomOS
 
 AxiomOS is a freestanding x86-64 hobby operating system built from scratch in C and assembly.
